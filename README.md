@@ -1,5 +1,17 @@
-# hi there , my name is nash
+# hi, i'm nash, and i build stuff for the world wide web.
 
-i'm nash, and i make several frameworks of a game as a hobby. i exceed in skill of backend developing, but as a downend i do not do it much as i am very demotivated towards anything right now. i enjoy (trying to) making ui, or whatnot frontend stuff.
+i am a self taught developer. i am a minor and from the united states. i started to learn over the year of 2020 while in lock down and started doing small projects in 2021 as well as learning **javascript** within 2021.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nashuhh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nashuhh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/nashuh)  
+i currently know two programming languages which are luau and **javascript (node.js)**. i enjoy creating small projects and plan to create a full game soon. my main aim is to allow normal people to have free accesses to resources which they may need.
+
+## achievements:
+
+* contributor towards several projects
+
+## current projects:
+
+* a physics engine
+
+***if anyone has any questions or issues feel free to direct them towards me here by sending me a message. i am always happy to assist with any problems someone may have.***
+
+signed, **nash**
