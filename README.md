@@ -4,14 +4,6 @@ i am a self taught developer. i am a minor and from the united states. i started
 
 i currently know two programming languages which are luau and **javascript (node.js)**. i enjoy creating small projects and plan to create a full game soon. my main aim is to allow normal people to have free accesses to resources which they may need.
 
-## achievements:
-
-* contributor towards several projects
-
-## current projects:
-
-* a physics engine
-
 ***if anyone has any questions or issues feel free to direct them towards me here by sending me a message. i am always happy to assist with any problems someone may have.***
 
 signed, **nash**
